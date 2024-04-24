@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -23,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-html-sass-solution-U1AC8vV5eF)
 - Live Site URL: [Add live site URL here](https://silly-bombolone-6fdecf.netlify.app)
 
 ## My process
@@ -37,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Through this project I learned the Frontend Mentor's process for completing challenges and submitting the solution to the platform for feedback.
+Through this project I learned the Frontend Mentor process for completing challenges and submitting the solution to the platform for feedback.
 
 One additional area of learning was utilizing Netlify's platform for deploying the project.
 
