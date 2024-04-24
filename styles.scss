@@ -51,7 +51,7 @@ section.card {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	gap: 24px;
+	gap: 1.5rem;
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 20px;
 
@@ -65,17 +65,21 @@ section.card {
 		width: 288px;
 		display: flex;
 		flex-direction: column;
-		gap: 16px;
+		gap: 1rem;
 		text-align: center;
 
 		h2 {
 			font-size: 22px;
 			font-weight: 700;
+			color: hsl(218, 44%, 22%);
 		}
 
 		p {
+			padding: 0 1rem;
 			font-size: 15px;
 			font-weight: 400;
+			letter-spacing: 0.19px;
+			color: hsl(220, 15%, 55%);
 		}
 	}
 }
