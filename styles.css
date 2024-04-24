@@ -54,6 +54,7 @@ section.card {
   gap: 1.5rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
+  box-shadow: 0 25px 25px 0 hsla(0, 0%, 0%, 0.0477);
 }
 section.card img {
   height: 288px;
